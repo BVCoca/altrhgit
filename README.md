@@ -1,1 +1,1 @@
-# altrhgit
+# AltRHGit
